@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1629307007 source:c:\users\tharu\desktop\test\main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<sstream>
+	<ostream>
+
+1629898007 source:c:\users\tharu\desktop\cw1\main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<sstream>
+	<ostream>
+

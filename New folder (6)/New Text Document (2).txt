@@ -1,0 +1,7 @@
+Vehical Number     Vehical Brand    Vehical Model     Year     Claim Number          Insurance Price         
+ 
+GN-4562      Toyota     Noah         2001     321hgf     Rs.45000
+PA-2555      Maxda      Bongo        2012     785agj     Rs.75000
+PF-5226      Honda      Lion         2014     741huf     Rs.65000
+CBB-7541     Subaru     Mbrez        2018     123jko     Rs.78000
+CAA-9863     Toyota     Grace        2017     465plm     Rs.65000

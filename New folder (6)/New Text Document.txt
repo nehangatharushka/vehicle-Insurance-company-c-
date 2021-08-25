@@ -1,0 +1,24 @@
+Customer Details
+
+NIC           Name                     Address                          Phone Number     Policy Number   Policy Issu Date    Policy  Expire Date   Policy Type
+
+98526547v  D.Rathnayake  607/1 Ihala Biyanwila  0772525258  60876c  2018-01-01  2018-30-31  Full Insurance  GN-4562
+96587631v  S.Rathnayake  58/7 Kadawatha m.Road  0756585258  40245v  2016-11-11  2017-11-11  Second Partion  PA-2555
+94589358v  N.Senadeera  66/1/c Ja-ela ks.ekala  0762577258  78945a  2015-04-30  2016-04-29  Third Party     PF-5226
+99258625v  P.Attanayke  76/6 Kiri iriyawatiya   0112365894  25848y  2017-07-25  2018-07-24  Second Partion  CBB-7541
+20569874v  M.Mafaz  41/C7  Kurunegala Ha Road   0777894566  75362f  2013-06-12  2014-06-11  Third Party   CAA-9863
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+          
